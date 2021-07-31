@@ -24,6 +24,6 @@ Here are my data sources. <br>
 3. Feature 2
 4. Feature 3
 
-** bold text **
-*** bold and italics ***
-* Italics *
+**bold text**
+***bold and italics***
+*Italics*
