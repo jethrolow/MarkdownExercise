@@ -34,5 +34,5 @@ print("Hello")
 
 <details>
   <summary> why? </summary>
-  
+  details are here
 </details>
